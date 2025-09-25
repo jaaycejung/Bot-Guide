@@ -3,7 +3,7 @@ import time
 
 WEBHOOK_URL = "https://discord.com/api/webhooks/1401061796827238482/LppZaj3jM_lSKaxoFQGXPuowE3Wb1rN9oj1GTiEXw4RT5sjAQBSG6IOFhSkZqyk5Z6Wv"
 
-all_contents = ["GPT-5는 여러분을 하루종일 지켜보고 있습니다.", "GPT-5는 아무 활동이 없어도 켜져있습니다.", "GPT-5를 @로 멘션하여 GPT 실시간 모더레이터를 부르세요!", "GPT-5에게 기타 요청을 할수도 있습니다."]
+all_contents = ["GPT-5는 여러분을 하루종일 지켜보고 있습니다.", "GPT-5는 아무 활동이 없어도 켜져있습니다.", "GPT-5를 멘션하여 GPT 모더레이터를 부르세요!", "GPT-5에게 기타 요청을 할수도 있습니다."]
 
 length = len(all_contents)
 index = 0
